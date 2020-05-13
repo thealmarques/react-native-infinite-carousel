@@ -9,7 +9,7 @@ Carousel component for React Native applications.
 ## How it works
 
 The component has the following props
-* Urls - Array of image URLs
+* Urls - Array containing the urls of the images
 
 If the image array is greater than one then there will be possible to slide through images showing at the same time a slider container informing the user of the selected image.
 
