@@ -1,0 +1,17 @@
+{
+  "name": "rn-infinite-carousel",
+  "displayName": "rn-infinite-carousel",
+  "expo": {
+    "name": "rn-infinite-carousel",
+    "slug": "rn-infinite-carousel",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
